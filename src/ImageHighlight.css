@@ -1,0 +1,16 @@
+.image-container {
+  position: relative;
+  display: inline-block;
+}
+
+.highlight {
+  position: absolute;
+  top: 50px;
+  left: 20px;
+  width: 42px;
+  height: 20px;
+  background-color: yellow;
+  border-radius: 3px;
+  opacity: 0.6;
+  pointer-events: none;
+}
